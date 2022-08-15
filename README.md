@@ -40,3 +40,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href="https://ribeirogilberto.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercício 019</a>
 
 <a href="https://ribeirogilberto.github.io/html-css/exercicios/ex020/hover.html">Executar o exercício 020</a>
+
+<a href="https://ribeirogilberto.github.io/html-css/exercicios/ex021/caixa01.html">Executar o exercício 021</a>
